@@ -1,16 +1,13 @@
-### Hi there 👋
+![banner](https://github.com/riric0602/riric0602/blob/main/githubBanner.png)
 
-<!--
-**riric0602/riric0602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>
+    <a href="https://profile.intra.42.fr/users/rchbouki">
+      <img src="https://badgen.net/badge/42Nice/rchbouki/blue?cache=86400&icon=https://meta.intra.42.fr/images/42_logo.svg">
+    </a>
+    <a href="https://www.linkedin.com/in/riham-chbouki-b7a85825b/">
+      <img src="https://badgen.net/badge/LinkedIn/Riham CHBOUKI/cyan?icon=linkedin">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=riric0602&color=blueviolet">
+  </p>
+</div>
